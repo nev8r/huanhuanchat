@@ -1,7 +1,6 @@
-lora_output
+
 swanlog
 model
-qwen0.6B_lora_merged
 output
 .vscode
 .ipynb*
